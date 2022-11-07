@@ -1,1 +1,1 @@
-# testRepoForConflictMAIN
+# testing coflict and resolution
